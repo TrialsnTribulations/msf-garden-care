@@ -1,2 +1,3 @@
 # msf-garden-care
 This repository will serve as the primary source control for a small business website I am creating.
+This websites primary purpose is to familiarise myself with the concepts I learnt by taking Shay Howes course on HTML & CSS, I am initially using the CSS styling from the course so I can focus on writing semantic HTML and to gain a good grasp of the workings of HTML. Once I have built a strong understanding of HTML I will be adjusting the styling in CSS to suit my needs and will eventually aim to make my own CSS framework to use in future projects and as my skills progress, change that framework to be responsive.
